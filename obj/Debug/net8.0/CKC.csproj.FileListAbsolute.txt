@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\console-kernel-control\CKC\bin\Debug\net8.0\CKC.dll
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\CKC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\CKC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\console-kernel-control\CKC\bin\Debug\net8.0\CKC.exe
+C:\Users\User\Desktop\console-kernel-control\CKC\bin\Debug\net8.0\CKC.deps.json
+C:\Users\User\Desktop\console-kernel-control\CKC\bin\Debug\net8.0\CKC.runtimeconfig.json
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\CKC.AssemblyInfo.cs
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\CKC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\CKC.dll
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\refint\CKC.dll
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\CKC.pdb
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\CKC.genruntimeconfig.cache
+C:\Users\User\Desktop\console-kernel-control\CKC\bin\Debug\net8.0\CKC.pdb
+C:\Users\User\Desktop\console-kernel-control\CKC\obj\Debug\net8.0\ref\CKC.dll
